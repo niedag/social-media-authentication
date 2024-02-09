@@ -3,3 +3,6 @@ Interacting with Facebook, Instagram, Twitter API, social media authentication t
 
 - Currently just functions with Facebook
 - See try-django for proper functional Facebook login authentication
+- Todo: twitter login auth? remote twitter posting
+        replicate facebook authentication in same way as try-django
+                copy authO reroute urls from test project
